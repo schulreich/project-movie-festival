@@ -76,8 +76,6 @@ background: linear-gradient(to right, orange , yellow);
 
 .imdb-btn{
     width: 65px;
-    font-weight: bolder;
-    margin-right: 70px;
 } 
 /* add some padding to have btn at same size*/
 .facebook-btn{
