@@ -71,9 +71,9 @@ background: linear-gradient(to right, orange , yellow);
     height: 1130px;
     border: 5px solid grey;
     overflow-y: scroll;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
-/*imbd btn width and font weight*/
+
 .imdb-btn{
     width: 65px;
     font-weight: bolder;

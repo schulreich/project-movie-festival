@@ -68,12 +68,12 @@ background: linear-gradient(to right, orange , yellow);
 
 /*scroll element that movie section is not to big*/
 .scroll-container {
-    height: 1130px;
+    height: 1120px;
     border: 5px solid grey;
     overflow-y: scroll;
     margin-bottom: 20px;
   }
-/*imbd btn width and font weight*/
+
 .imdb-btn{
     width: 65px;
     font-weight: bolder;
