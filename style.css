@@ -96,10 +96,11 @@ background: linear-gradient(to right, orange , yellow);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+/* social media links*/
 .fa{
     color: black;
 }
+/*sponsor img footer*/
 .sponsor{
     height: 200px;
     width: 200px;
