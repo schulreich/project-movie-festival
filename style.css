@@ -8,6 +8,7 @@
 #news-ticker{
     padding-left: 20px;
     font-size: medium;
+    
 }
 /* background image and site font */
 .page-bg{
@@ -79,13 +80,7 @@ background: linear-gradient(to right, orange , yellow);
     font-weight: bolder;
     margin-right: 70px;
 } 
-/* add some padding to have btn at same size*/
-.facebook-btn{
-    padding-left: 15px;
-}
-.twitter-btn{
-    padding-left: 20px;
-}
+
 /*add modal bg*/
 .modal-body{
     background-image: url(/images/pixelart-2.png);
@@ -102,6 +97,9 @@ background: linear-gradient(to right, orange , yellow);
     background-size: cover;
 }
 
+.fa{
+    color: black;
+}
 .sponsor{
     height: 200px;
     width: 200px;
