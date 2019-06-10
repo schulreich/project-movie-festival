@@ -102,8 +102,8 @@ background: linear-gradient(to right, orange , yellow);
 }
 /*sponsor img footer*/
 .sponsor{
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     border: 5px black;
 }
 
