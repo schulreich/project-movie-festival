@@ -12,14 +12,14 @@
 }
 /* background image and site font */
 .page-bg{
-    background-image: url(/images/bg-big.png);
+    background-image: url(images/bg-big.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Magra', sans-serif;
 }
 /*set same bg as on body, font and rainbow color with linear-gradient fill-color transparent */
 .jumbotron{
-background: url(/images/bg-big.png);
+background: url(images/bg-big.png);
 background-repeat: no-repeat;
 background-size: cover;
 font-family:'Permanent Marker', cursive;
@@ -36,7 +36,7 @@ background: linear-gradient(to right, orange , yellow);
 
 
 .movie{
-    background-image: url(/images/bg-big.png);
+    background-image: url(images/bg-big.png);
 }
 
 /*set max-width for movie cards*/
@@ -83,7 +83,7 @@ background: linear-gradient(to right, orange , yellow);
 
 /*add modal bg*/
 .modal-body{
-    background-image: url(/images/pixelart-2.png);
+    background-image: url(images/pixelart-2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -92,7 +92,7 @@ background: linear-gradient(to right, orange , yellow);
     margin-top: 10px;
     max-width: initial;
     height: 600px;
-    background-image: url(/images/city2.gif);
+    background-image: url(images/city2.gif);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -113,7 +113,7 @@ background: linear-gradient(to right, orange , yellow);
 /* responsive changes: change bg set margin to 0px and display flex that elements are underneath eachother, hide scrollbar on small devices */
 @media screen and (max-width: 800px) {
     .page-bg{
-        background-image: url(/images/bg-small.png);
+        background-image: url(images/bg-small.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
