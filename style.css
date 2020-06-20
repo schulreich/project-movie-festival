@@ -53,7 +53,7 @@ background: linear-gradient(to right, orange , yellow);
 /* set margin to news btn to get space between container and news element , no-border for design*/
 #news{
     width: 22rem;
-    margin-left: 133px;
+    margin-left: 125px;
     border: none !important;
 }
 /*set height of spaceship gifs underneath news element*/
@@ -111,7 +111,7 @@ background: linear-gradient(to right, orange , yellow);
 
 
 /* responsive changes: change bg set margin to 0px and display flex that elements are underneath eachother, hide scrollbar on small devices */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1024px) {
     .page-bg{
         background-image: url(images/bg-small.png);
         background-repeat: no-repeat;
@@ -127,10 +127,11 @@ background: linear-gradient(to right, orange , yellow);
     .scroll-container {
       height: auto;
       overflow-y: hidden;
+      width: 518px;
     }
   }
   /* display and margin to have elements next to eachother at large and medium displays*/
-  @media screen and (max-width: 1200px){
+  @media screen and (max-width: 1024px){
       #news{
           margin-left: 0px;
       }
